@@ -1,0 +1,5 @@
+{
+  "name": " Fusion Tier Simulator Local PC",
+  "description": "A faithful replica of the PristonTale EU Fusion Tier system, featuring a 34-node interactive tree, soul management, stat calculations with specific amortization formulas, and build sharing capabilities.",
+  "requestFramePermissions": []
+}
